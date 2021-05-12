@@ -263,7 +263,7 @@
     "electron-updater": "^4.2.0",
     "email-validator": "^2.0.4",
     "history": "^4.10.1",
-    "mathjs": "^6.5.0",
+    "mathjs": "^7.5.1",
     "moment": "^2.24.0",
     "node-forge": "^0.9.1",
     "numbro": "^2.1.2",
